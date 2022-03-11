@@ -8,3 +8,7 @@ Two files for each problem. One file is the problem description and the second f
 2. Canadian Computing Competition (CCC) Problems (Found in DMOJ Folder)
 
 Solution files are named "CCC Year Problem Number.cpp". Question files contain all of the questions for a specific year and are named "CCC Year Problems.pdf".
+
+3. Problems from Other Contests (Found in DMOJ Folder)
+
+Solution files are named in the format "Contest Name Problem Number.cpp". Question files are named in the format "_Contest Name Problem Number_ Problem.pdf".
