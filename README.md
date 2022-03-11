@@ -3,12 +3,12 @@ Contains my solutions to various competitive programming problems. The files are
 
 1. UVa Problems
 
-Two files for each problem. One file is the problem description and the second file is the solution. Question files are named "Year and or Problem Number - Problem Title.pdf". Solution files are named "Year and or Problem Number - Problem Title.cpp".
+Solution files are named "_Year and or Problem Number_ - _Problem Title_.cpp". Question files are named "_Year and or Problem Number_ - _Problem Title_.pdf". 
 
 2. Canadian Computing Competition (CCC) Problems (Found in DMOJ Folder)
 
-Solution files are named "CCC Year Problem Number.cpp". Question files contain all of the questions for a specific year and are named "CCC Year Problems.pdf".
+Solution files are named "CCC _Year_ _Problem Number_.cpp". Question files contain all of the questions for a specific year and are named "CCC _Year_ Problems.pdf".
 
 3. Problems from Other Contests (Found in DMOJ Folder)
 
-Solution files are named in the format "Contest Name Problem Number.cpp". Question files are named in the format "_Contest Name Problem Number_ Problem.pdf".
+Solution files are named in the format "_Contest Name Problem Number_.cpp". Question files are named in the format "_Contest Name Problem Number_ Problem.pdf".
